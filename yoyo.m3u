@@ -33,3 +33,7 @@ index_3_20556630.ts?&?m=1607713612
 index_3_20556631.ts?&?m=1607713612
 #EXTINF:4.000,
 index_3_20556632.ts?&?m=1607713612
+#EXTINF:-1 tvg-logo="https://i.imgur.com/INArx0I.png",FM HOT [720](1)
+http://edge1.cl.grupoz.cl/fmhot/smil:live.smil/chunklist_w607487121_b1500000_slesp.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/INArx0I.png",FM HOT [720](2)
+http://edge1.cl.grupoz.cl/fmhot/smil:live.smil/master.m3u8
